@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola bienvenidos a mi repositorio 👋
+
+Soy estudiante de segundo año de la carrera de Ingennieria en desarrollo de software en la Universidad de Oriente (UNIVO), actualmente poseo conocimientos en teconoligas web de frontend y backend, ademas tambien conocimiento en los sistema basados en linux, deseo poder seguir aprendiendo más acerca del mundo del desarrollo de software.
+
+#Tecnologias frontend que estoy usando
+|HTML  | CSS  | Javascript  | React  |
+|![HTML](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fhtml5-logo.png&f=1&nofb=1&ipt=2c6910f407b08b868534a3cbbaa6ee13fd7f41099b8662e4fc854665ca3b8648&ipo=images) |
 
 <!--
 **Th3rick2002/Th3rick2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
