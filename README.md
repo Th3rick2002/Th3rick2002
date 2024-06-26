@@ -6,8 +6,7 @@ Soy estudiante de segundo año de la carrera de Ingennieria en desarrollo de sof
 
 |HTML  | CSS  | Javascript  | React  |
 |------|------|-------------|--------|
-|<picture><img> src="https://github.com/Th3rick2002/Th3rick2002/assets/112788150/2a7a2a34-761c-4a22-85e6-d0a6d361fb6e"</picture>|
-
+|<picture><img> src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"</picture>|
 
 <!--
 **Th3rick2002/Th3rick2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
