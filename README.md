@@ -14,6 +14,11 @@ Soy Erick Martinez estudiante de segundo año de la carrera de Ingennieria en de
 |------------|---------|----------|----------|
 |<picture><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width=64px></picture>|<picture><img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width=64px></picture>|<picture><img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width=64px></picture>|<picture><img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width=64px></picture>|
 
+###Herramientas
+|Git  | GitHub  | WebStorm  |
+|-----|---------|-----------|
+|<picture><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width=64px></picture> | <picture><img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width=64px></picture> | <picture><img src="https://img.icons8.com/?size=100&id=32sNCVhNAx9Y&format=png&color=000000" width=64px></picture>|
+
 <!--
 <picture><img src="" width=64px></picture>
 
