@@ -3,6 +3,7 @@
 Soy estudiante de segundo año de la carrera de Ingennieria en desarrollo de software en la Universidad de Oriente (UNIVO), actualmente poseo conocimientos en teconoligas web de frontend y backend, ademas tambien conocimiento en los sistema basados en linux, deseo poder seguir aprendiendo más acerca del mundo del desarrollo de software.
 
 #Tecnologias frontend que estoy usando
+
 |HTML  | CSS  | Javascript  | React  |
 |
 
