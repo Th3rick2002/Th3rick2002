@@ -1,22 +1,22 @@
 # Hola bienvenidos a mi repositorio 👋
 
-**Soy Erick Martinez estudiante de segundo año de la carrera de Ingenieria en desarrollo de software en la Universidad de Oriente (UNIVO), actualmente poseo conocimientos en tecnologas web de frontend y backend, ademas tambien conocimiento en los sistema basados en linux, deseo poder seguir aprendiendo más acerca del mundo del desarrollo de software.**
+**Soy Erick Martinez estudiante de tercer año de la carrera de Ingenieria en desarrollo de software en la Universidad de Oriente (UNIVO), actualmente poseo conocimientos en tecnologas web de frontend y backend, ademas tambien conocimiento en los sistema basados en linux, deseo poder seguir aprendiendo más acerca del mundo del desarrollo de software.**
 
 ## Tecnologias que estoy usando actualmente
 ###  Frontend
 
-|HTML  | CSS  | Javascript  |
-|------|------|-------------|
+|HTML  | CSS  | Javascript  | Vue js |
+|------|------|-------------|--------|
 |<picture><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width=64px></picture>|<picture><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width=64px></picture>|<picture><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width=64px></picture>|
 
 ### Backend
-|Javascript  | Nodejs  |
-|------------|---------|
+|Javascript  | Nodejs  | Typescript | Nest js | Go |
+|------------|---------|------------|---------|----|
 |<picture><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width=64px></picture>|<picture><img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width=64px>
 
 ### Herramientas
-|Git  | GitHub  | WebStorm  |  Docker  |
-|-----|---------|-----------|----------|
+|Git  | GitHub  | WebStorm  |  Docker  | Bash |
+|-----|---------|-----------|----------|------|
 |<picture><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width=64px></picture> | <picture><img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width=64px></picture> | <picture><img src="https://img.icons8.com/?size=100&id=32sNCVhNAx9Y&format=png&color=000000" width=64px></picture>|<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width=64px></picture>|
 
 ### OS
