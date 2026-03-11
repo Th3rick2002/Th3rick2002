@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy Erick Martinez estudiante de tercer año de la carrera de Ingenieria en desarrollo de software en la Universidad de Oriente (UNIVO), actualmente poseo conocimientos en tecnologas web de frontend y backend, ademas tambien conocimiento en los sistema basados en linux, deseo poder seguir aprendiendo más acerca del mundo del desarrollo de software.</p>
+<p align="left">Soy Erick Martinez estudiante de cuarto año de la carrera de Ingenieria en desarrollo de software en la Universidad de Oriente (UNIVO), actualmente poseo conocimientos en tecnologas web de frontend y backend, ademas tambien conocimiento en los sistema basados en linux, deseo poder seguir aprendiendo más acerca del mundo del desarrollo de software.</p>
 
 ###
 
